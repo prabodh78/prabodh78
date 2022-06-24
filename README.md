@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prabodh</h1>
 <h3 align="center">Computer Vision Engineer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
-
+<img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/823/230/HD-wallpaper-hacker-computer-boy-anime-technology-pc-black-night.jpg">
 - 🌱 I’m currently learning **ML OPS**
 
 - 📫 How to reach me **pthombare23@gmail.com**
