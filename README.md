@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prabodh</h1>
 <h3 align="center">Computer Vision Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabodh78&label=Profile%20views&color=0e75b6&style=flat" alt="prabodh78" /> </p>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabodh78" alt="prabodh78" /></a> </p>
 
 - 🌱 I’m currently learning **ML OPS**
 
