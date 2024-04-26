@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **pthombare23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x1oUPsJxeWveioqUwCSX2MpB0lZynPV2/view?usp=sharing](https://drive.google.com/file/d/11RnONkVbqXE12yS44j8flwSvr45IKVgc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OYMYkQq6Zpa5-u1XWuq10Ptmk90NVtwE/view?usp=drive_link](https://drive.google.com/file/d/1OYMYkQq6Zpa5-u1XWuq10Ptmk90NVtwE/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
